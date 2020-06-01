@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+  padding:0;
+  margin:0;
+}
+
+main>div{
+  width: 150px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.distruttore{
+  font-size: 30px;
+  color: red;
+  cursor: pointer;
+}
